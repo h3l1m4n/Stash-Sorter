@@ -10,3 +10,7 @@ Functions are
 
 This only works for Scenes. All creation of new perfomers, tags and studios needs to be done in .Stash Webui.
 ![bild](https://user-images.githubusercontent.com/30600933/116009813-d69eef00-a61b-11eb-97f9-12012e1dedb7.png)
+
+
+Pre-compiled can be found here
+https://github.com/h3l1m4n/Stash-Sorter/releases/tag/1.0
