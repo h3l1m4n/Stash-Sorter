@@ -9,3 +9,4 @@ Functions are
 5: Auto tag (This goes through the list of perfomers and tries to match them to the Path name, if it's a hit, the perfoermer will be added to that scene)
 
 This only works for Scenes. All creation of new perfomers, tags and studios needs to be done in .Stash Webui.
+![bild](https://user-images.githubusercontent.com/30600933/116009813-d69eef00-a61b-11eb-97f9-12012e1dedb7.png)
